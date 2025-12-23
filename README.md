@@ -36,18 +36,17 @@ Each folder represents an **independent project**, including its own datasets, n
 ## 🗂️ Repository Structure
 Projects-Data-Science-and-Data-Analysis/
 ├── Tourism_Project/
-│ ├── data/
-│ ├── notebooks/
-│ ├── dashboards/
-│ ├── scripts/
-│ └── README.md # Project-specific README
+│   ├── data/
+│   ├── notebooks/
+│   ├── dashboards/
+│   ├── scripts/
+│   └── README.md        # Project-specific README
 │
 ├── Another_Project/
-│ └── README.md
+│   └── README.md        # Project-specific README
 │
-└── README.md # Main repository README
-
----
+└── README.md            # Main repository README
+----
 
 ## 🛠️ Technologies Used
 
