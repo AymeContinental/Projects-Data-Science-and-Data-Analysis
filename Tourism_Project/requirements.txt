@@ -1,0 +1,27 @@
+# Manipulación y análisis de datos
+pandas==2.1.4
+numpy==1.26.2
+
+# Visualización
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Manejo de archivos Excel (opcional pero útil)
+openpyxl==3.1.2
+xlrd==2.0.1
+
+# Jupyter para notebooks
+jupyter==1.0.0
+ipykernel==6.27.1
+
+# Limpieza de datos
+python-dateutil==2.8.2
+
+# Para trabajar con coordenadas geográficas (opcional)
+geopy==2.4.1
+
+# Para requests si necesitas descargar datos
+requests==2.31.0
+
+# Para validación de datos
+great-expectations==0.18.8

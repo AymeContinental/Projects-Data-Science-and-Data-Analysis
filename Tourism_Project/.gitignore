@@ -1,0 +1,29 @@
+# Entorno virtual
+Tourism/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Power BI
+*.pbix.bak
+
+# Archivos grandes (opcional)
+# data/raw/*.csv
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
