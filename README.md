@@ -34,6 +34,7 @@ Each folder represents an **independent project**, including its own datasets, n
 ---
 
 ## 🗂️ Repository Structure
+```
 Projects-Data-Science-and-Data-Analysis/
 ├── Tourism_Project/
 │   ├── data/
@@ -46,7 +47,7 @@ Projects-Data-Science-and-Data-Analysis/
 │   └── README.md        # Project-specific README
 │
 └── README.md            # Main repository README
-----
+```
 
 ## 🛠️ Technologies Used
 
